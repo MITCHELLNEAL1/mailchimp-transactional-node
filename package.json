@@ -7,9 +7,6 @@
   "browser": {
     "fs": false
   },
-  "dependencies": {
-    "axios": "^0.21.1"
-  },
   "homepage": "https://github.com/mailchimp/mailchimp-transactional-node",
   "repository": {
     "type": "git",
@@ -26,5 +23,8 @@
   ],
   "engines": {
     "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
   }
 }
